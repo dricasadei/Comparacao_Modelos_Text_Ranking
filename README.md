@@ -15,11 +15,11 @@ O experimento consistiu em a partir da interface web carregar dois documentos e 
 Na comparação entre dos documentos os dois modelos chegaram na resposta correta, porém o modelo phi de forma mais direta e concisa na resposta. Conforme observado nas imagens:
 
 - phi
-<img src="[URL_da_Imagem](https://drive.google.com/drive/folders/1EjJn3zOeBp74bhM7L9JDBwhCBtBIkCw4)" alt="Resposta do modelo Phi">
+![Resposta do modelo Phi](https://github.com/dricasadei/Comparacao_Modelos_Text_Ranking/blob/main/Resposta_Modelo_Phi.png)
 
 - deepseek R1
-![Resposta do modelo DeepSeek R1 - Parte 1](https://drive.google.com/file/d/101twxUhpXPKE4o9dR62iblh-55iiPnxk/view?usp=drive_link)
-![Resposta do modelo DeepSeek R1 - Parte 2]([https://drive.google.com/file/d/1AoK5qNnIgCKbhHeVcIg3YXbAt2ctu-YA/view?usp=drive_link)
+![Resposta do modelo DeepSeek R1 - Parte 1](https://github.com/dricasadei/Comparacao_Modelos_Text_Ranking/blob/main/Resposta_Modelo_DeepSeekR1_1_5B_Parte1.png)
+![Resposta do modelo DeepSeek R1 - Parte 2](https://github.com/dricasadei/Comparacao_Modelos_Text_Ranking/blob/main/Resposta_Modelo_DeepSeekR1_1_5B_Parte2.png)
 
 Ferramentas utilizadas:
 - [Plataforma Ollama](https://ollama.com/)

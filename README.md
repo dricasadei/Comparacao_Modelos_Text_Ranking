@@ -12,7 +12,7 @@ No artigo foi usado modelos os modelos FLAN-T5-XL, FLANT5-XXL, FLAN-UL2 com tama
 
 O experimento consistiu em a partir da interface web carregar dois documentos e passar uma query para o modelo. No caso, a mesma query, documentos e prompt foram usadas para os dois modelos.
 
-Na comparação entre dos documentos os dois modelos chegaram na resposta correta, porém o modelo phi de forma mais direta e concisa na resposta. Conforme observado nas imagens:
+Na comparação entre dos documentos os dois modelos chegaram na resposta correta:
 
 - phi
   
